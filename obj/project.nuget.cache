@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1NKHO9ylyobIepJo3k+x2vl6pW10OaDw/F//nv7M7egWVJVzWRyFQihXNhOSGePVZtcdEcZKRtT1q8Opnryuxg==",
+  "success": true,
+  "projectFilePath": "D:\\C# Projects\\10 Практическая\\10 Практическая.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\polga\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

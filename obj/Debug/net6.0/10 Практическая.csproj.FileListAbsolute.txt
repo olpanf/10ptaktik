@@ -1,0 +1,17 @@
+D:\C# Projects\10 Практическая\obj\Debug\net6.0\10 Практическая.csproj.AssemblyReference.cache
+D:\C# Projects\10 Практическая\obj\Debug\net6.0\10 Практическая.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\10 Практическая\obj\Debug\net6.0\10 Практическая.AssemblyInfoInputs.cache
+D:\C# Projects\10 Практическая\obj\Debug\net6.0\10 Практическая.AssemblyInfo.cs
+D:\C# Projects\10 Практическая\obj\Debug\net6.0\10 Практическая.csproj.CoreCompileInputs.cache
+D:\C# Projects\10 Практическая\bin\Debug\net6.0\10 Практическая.exe
+D:\C# Projects\10 Практическая\bin\Debug\net6.0\10 Практическая.deps.json
+D:\C# Projects\10 Практическая\bin\Debug\net6.0\10 Практическая.runtimeconfig.json
+D:\C# Projects\10 Практическая\bin\Debug\net6.0\10 Практическая.dll
+D:\C# Projects\10 Практическая\bin\Debug\net6.0\10 Практическая.pdb
+D:\C# Projects\10 Практическая\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\C# Projects\10 Практическая\obj\Debug\net6.0\10 Практическая.csproj.CopyComplete
+D:\C# Projects\10 Практическая\obj\Debug\net6.0\10 Практическая.dll
+D:\C# Projects\10 Практическая\obj\Debug\net6.0\refint\10 Практическая.dll
+D:\C# Projects\10 Практическая\obj\Debug\net6.0\10 Практическая.pdb
+D:\C# Projects\10 Практическая\obj\Debug\net6.0\10 Практическая.genruntimeconfig.cache
+D:\C# Projects\10 Практическая\obj\Debug\net6.0\ref\10 Практическая.dll
